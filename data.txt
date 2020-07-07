@@ -1,0 +1,778 @@
+IMT4884,Advanced Colour Management
+IMT4894,Advanced Project Work
+ETG1102,Aktivitetsanalyse
+ETG1103,Aktivitetsvitenskap
+PARA1005,Akuttmedisin 1
+PARA1006,Akuttmedisin 2
+FH3103,Aldringens biologi og helseutfordringer i eldre år
+IDATG2102,Algoritmiske metoder
+IMT2021,Algoritmiske metoder(Kun eksamen, undervises ikke)
+TØL4206,Aluminum and light metals
+PARA1013,Anatomi og fysiologi
+RAG1001,Anatomi og fysiologi
+ERG1011,Anatomi og fysiologi for ergoterapi(Kun eksamen, undervises ikke)
+SYG1001,Anatomi, fysiologi og biokjemi
+RAD1051,Anatomi, fysiologi og mikrobiologi(Kun eksamen, undervises ikke)
+SPL1004,Anatomi, fysiologi, mikrobiologi og hygiene(Kun eksamen, undervises ikke)
+SPL1004D,Anatomi/fysiologi,mikrobiologi og hygiene(Kun eksamen, undervises ikke)
+DT8805,ApPEARS og CHANGE Forskerskole Norge
+IDIG4003,Appearance, Perception and Measurement
+IMT4886,Applied Computer Science Project
+IMT3281,Applikasjonsutvikling
+VIU8291,Arbeidsmåter i veiledning(Kun eksamen, undervises ikke)
+BYGG2261,Arealplanlegging og digital modellering
+IDG1293,Avansert CSS
+SYG3252,Avansert klinisk sykepleie til akutt og kritisk syke
+SYG3251,Avansert klinisk sykepleie til personer med langvarige, kroniske og sammensatte lidelser
+PROG2006,Avansert programmering
+VB8008,Avanserte polymerkompositter
+BIM2002,BIM Modelleringscase
+IDATG2900,Bacheloroppgave
+PROG2900,Bacheloroppgave
+IDG3910,Bacheloroppgave
+BIDAT39,Bacheloroppgave - Dataingeniør
+BGEO390,Bacheloroppgave - Geomatikk
+BIMAS39,Bacheloroppgave - Maskin
+BTEK391,Bacheloroppgave - Teknologidesign og ledelse
+BTEKD39,Bacheloroppgave - Teknologidesign og ledelse
+BWU3900,Bacheloroppgave - Webutvikling
+BLOG390,Bacheloroppgave -logistikk
+BLOG391,Bacheloroppgave -logistikk
+BØKLED4,Bacheloroppgave -Økonomi, ledelse og bærekraft
+BØKLED3,Bacheloroppgave -Økonomi, ledelse og bærekraft
+DCSG2900,Bacheloroppgave Bachelor i digital infrastruktur og cybersikkerhet
+BIBYG39,Bacheloroppgave Bygg
+BBYGL39,Bacheloroppgave Byggeledelse
+TØL3903,Bacheloroppgave CERN
+BIELE39,Bacheloroppgave Elektroingeniør- Elektronikk
+BIELE40,Bacheloroppgave Elektroingeniør- elkraft
+BIFEN39,Bacheloroppgave Fornybar energi
+FENG2900,Bacheloroppgave Fornybar energi
+GEOM2900,Bacheloroppgave Geomatikk
+MASG2900,Bacheloroppgave Maskin
+BYGG2900,Bacheloroppgave bygg
+IELEG2900,Bacheloroppgave elektronikk og sensorsystemer
+IELEG2910,Bacheloroppgave elkraftteknikk
+ERG3901,Bacheloroppgave i ergoterapi
+ETG2900,Bacheloroppgave i ergoterapi
+RAD3911,Bacheloroppgave i radiografi
+RAG2900,Bacheloroppgave i radiografi
+SPL3903,Bacheloroppgave i sykepleie
+SYG2900,Bacheloroppgave i sykepleie
+BIXD390,Bacheloroppgave  Interaksjonsdesign(Kun eksamen, undervises ikke)
+BPROG39,Bacheloroppgave- programmering [Spill/Applikasjoner]
+IDG2003,Back-end web utvikling I
+RAD1031,Basiskunnskap i radiografi(Kun eksamen, undervises ikke)
+SMF1192F,Bedrifts- og forretningssystemer
+SMF1194,Bedriftsøkonomi med regnskap
+SMF1194F,Bedriftsøkonomi med regnskap
+IMT6121,Behavioural Biometrics
+BYGG2254,Betongkonstruksjoner
+BYG3321,Betongkonstruksjoner
+BYGG2352,Betongteknologi
+RAG2206,Bildebehandling for radiografer
+FENG2022,Bioenergi
+IMT6071,Biometrics
+IMT4126,Biometrics
+IDG2010,Brukersentrert designmetodikk
+HMPH4100,Brukerstøttet åpen dialog
+SMF3094,Business Analytics
+BYGG2265,Byggeprosjektet
+BYG3333,Bygging, drift og vedlikehold av veg
+BYG2221,Byggstatikk(Kun eksamen, undervises ikke)
+BYGG1001F,Byggteknikk
+VB6117,Byggteknikk
+BYGG1001,Byggteknikk
+BYGG2260,Bygningsfysikk
+BYG1371,Bygningsfysikk(Kun eksamen, undervises ikke)
+VB6101,Bygningsfysikk
+SMF3082,Bærekraft og anvendt etikk(Kun eksamen, undervises ikke)
+SMF3082F,Bærekraft og anvendt etikk
+SMF3052F,Bærekraft og markedsføring
+SMF3052,Bærekraft og markedsføring(Kun eksamen, undervises ikke)
+VB8000,Bærekraftig byggeri med digital prosess
+ENE2002,Bærekraftig energi II(Kun eksamen, undervises ikke)
+SMF3086,Bærekraftig innovasjon
+SMF3086F,Bærekraftig innovasjon
+SMF3041,Bærekraftige Strategier(Kun eksamen, undervises ikke)
+SMF3041F,Bærekraftige Strategier
+SMF3091,Bærekraftige Strategier
+BYG3261,Bærekraftige bygninger
+BYGG2264,Bærekraftige bygninger
+TEK3101,Bærekraftige polymerer og kompositter
+SMF3091F,Bærekraftige strategier
+IMT6007,COINS IT Security Exercise
+IMT6003,COINS Summer School
+IMT6002,COINS Winter School
+IMT6004,COINS Workshop
+IMT6005,COINS Workshop II
+IMT6006,COINS Workshop III
+IMT3691,Campusnettverk og internettarkitektur
+PROG2005,Cloud Technologies
+IDG2001,Cloud Technologies
+IMT2681,Cloud Technologies(Kun eksamen, undervises ikke)
+DT8121,Colour Imaging
+IMT2363,Colour Management and Image Quality
+IMT6201,Colour Science
+IMT4301,Colour in Medical Imaging(Kun eksamen, undervises ikke)
+IMT4315,Colour in interface design
+IMT6091,Computational Forensics
+IMT4210,Computational Forensics
+IMT6101,Computational Intelligence
+IDIG4002,Computer Graphics Fundamentals and Applications
+IDATG2206,Computer Vision
+IMT3017,Computer Vision
+RAG2201,Computertomografi (CT)
+IMT4303,Content-based Indexing and Retrieval
+IIKG6502,Critical Infrastructure Security
+IMT4203,Critical Infrastructure Security
+IMT6271,Critical Thinking
+IMT4304,Cross-media Color Reproduction
+IMT4124,Cryptology
+IIKG6501,Cyber Intelligence
+IMT4214,Cyber Intelligence
+IIKG6500,Cyber Tactics
+IMT4213,Cyber Tactics
+IMT4130,Cybercrime Investigation
+IIKG6503,Cybersikkerhet - Introduksjon til informasjonssikkerhetsledelse
+IIKG1001,Cybersikkerhet og datanettverk
+DCSG1002,Cybersikkerhet og teamarbeid
+IMT4133,Data Science for Security and Forensics
+MASG2101,Dataassistert design
+TEK1002,Dataassistert design
+TEK2114,Dataassistert design 1
+IELEG2001,Datakommunikasjon
+DCSG1006,Datakommunikasjon og nettverk
+IDATG2204,Datamodellering og databasesystemer
+IMT2571,Datamodellering og databasesystemer(Kun eksamen, undervises ikke)
+IELEG1002,Datateknikk
+ELE3343,Datatransmisjon
+IELEG2212,Datatransmisjon
+IMT4392,Deep learning for visual computing
+ERG1041,Deltagelse i aktivitet(Kun eksamen, undervises ikke)
+ETG2205,Deltakelse i arbeid og utdanning
+TPD4156,Design 7 - Tjenestedesign
+TEK3011,Design av dynamisk påkjente konstruksjoner
+MASG2106,Design av dynamisk påkjente konstruksjoner
+IMT3008,Design av sikkerhetskritiske systemer
+IDG3008,Design of Safety Critical Systems
+TEK3091,Design og konstruksjon av kompositt og polymere materialer
+IMT3950005,Design og prototyping for mobil og nettbrett(Kun eksamen, undervises ikke)
+IDG2200,Design og prototyping for nettbrett og mobil
+IMT2342,Designhistorie og designteori(Kun eksamen, undervises ikke)
+IDG2342,Designhistorie og designteori
+IMT2010,Designmetoder og brukskvalitetsmetodikk(Kun eksamen, undervises ikke)
+IDG3541,Designpraksis i bedrift
+BIM1012,Digital BIM-modellering
+TVB4110,Digital bygningsinformasjon
+TEK2118,Digital formutvikling
+DCST2004,Digital tjenesteforvaltning
+VB8005,Digital tvilling for bærekraftig vareproduksjon
+TTM4165,Digital økonomi
+TVB4505,Digitale byggeprosesser, fordypningsemne
+TVB4500,Digitale byggeprosesser, fordypningsprosjekt
+TVB4900,Digitale byggeprosesser, masteroppgave
+SMF2014,Digitale forsyningskjeder og ERP-systemer
+TBA4405,Digitalisering i byggeprosesser og bygd miljø
+ELE2131,Digitalteknikk og mikrokontrollere
+IMT3003,Drift av tjenestearkitekturer(Kun eksamen, undervises ikke)
+TEK2115,Driftsledelse  kommunikasjonskunnskap(Kun eksamen, undervises ikke)
+TEK3103,Driftsledelse  kompetansestyring
+SMF2293,Driftsregnskap med budsjettering
+SMF2293F,Driftsregnskap med budsjettering
+VB6002,Dronefotogrammetri I
+TEK2002,EcoDesign
+TEK3109,EcoDesign 1
+FENG2313,Effektiv energibruk
+IELEG2120,Elektriske Maskiner og Elektromagnetisk Energiomforming
+ELE3341,Elektriske anlegg og høgspenningsteknikk
+ENE3004,Elektriske energisystem og fjernvarme
+FENG2001,Elektriske energisystemer og fjernvarme
+IELEG2118,Elektriske kraftnett
+ELE3391,Elektro prosjekt
+IELEG2213,Elektro prosjekt
+IELEG2119,Elektroinstallasjoner
+ELE1051,Elektronikk(Kun eksamen, undervises ikke)
+IELEG2109,Elektronikkonstruksjon
+IELEG2215,Elektronisk kommunikasjon
+IELEG1001,Elektroteknikk 1
+IELEG2003,Elektroteknikk 2
+TEK2001,Elementmetoden
+MASG2102,Elementmetoden
+IDG3010,Emballasjedesign
+IMT3010,Emballasjedesign
+IMT3014,Emneoverbyggende prosjekt
+IDG3014,Emneoverbyggende prosjekt, mappe og avgangsutstilling
+IMT3016,Emneoverbyggende utvekslingsprosjekt
+FENG2314,Energilagring
+ENE3003,Energisystem analyse(Kun eksamen, undervises ikke)
+FENG2020,Energisystem analyse
+TØL4023,Energy system analysis project course
+SMF3092,Entreprenørskap
+TEK3105,Entreprenørskap
+MH3002,Epidemiologi I
+IDG1072,Ergonomi i digitale medier(Kun eksamen, undervises ikke)
+IMT2072,Ergonomi i digitale medier(Kun eksamen, undervises ikke)
+ETG2202,Ergoterapeutiske arbeidsprosesser og metoder
+ERG3031,Ergoterapi i samfunnet
+ETG2220,Ergoterapiprosessen og klinisk resonnering (praksisstudier)
+TVB4114,Estetikk i plan og byggesaker
+BYG3232,Estetikk, byggeskikk og stedskvalitet
+BYGG2363,Estetikk, byggeskikk og stedskvalitet
+K1215,Estetikk, byggeskikk og stedskvalitet
+SYG3010,Etikk i klinisk sykepleie
+SMF2290,Etikk, bærekraft og samfunnsansvar
+SMF2290F,Etikk, bærekraft og samfunnsansvar
+EXPH0100,Examen philosophicum for humaniora og estetiske fag
+EXPH0400,Examen philosophicum for medisin og helsefag
+EXPH0300,Examen philosophicum for naturvitenskap og teknologi
+EXPH0500,Examen philosophicum for økonomi
+IMT4905,Experience-based Master's Thesis
+VB8004,FNs bærekraftmål og Bærekraftig vareproduksjon
+SYG2301,Faglig ledelse og tjenesteutvikling
+SYG2300,Faglig ledelse og tjenesteutvikling - praksisstudier
+ETG2330,Fagutvikling og innovasjon (praksisstudier)
+SYG3105,Familiesentrert omsorg
+IDG1004,Farge i grensesnittdesign
+IDG2002,Fargestyring
+IMT2411,Fargestyring(Kun eksamen, undervises ikke)
+PARA1004,Farmakologi og medikamenthåndtering
+SMF2151F,Finansregnskap(Kun eksamen, undervises ikke)
+SMF1197F,Finansregnskap med analyse
+SMF1197,Finansregnskap med analyse
+BYGG2351,Fleretasjes trehus
+BYG3332,Fleretasjes trehus
+IDG1009,Flerkanalpublisering
+TØL4204,Flexible Automation and Artificial Intelligence
+FENG2002,Fluidmekanikk og hydraulikk
+ETG2302,Folkehelse, inkluderende samfunn og global helse
+SYG3002,Fordypning i anestesisykepleie og anestesiologi
+SYG3004,Fordypning i intensivsykepleie og intensivmedisin
+SYG3005,Fordypning i operasjonssykepleie og kirurgi
+RAG2302,Fordypning i skjelettrøntgen
+IDG3101,Fordypningsprosjekt
+IDG3100,Fordypningsprosjekt
+IDG4898,Fordypningsprosjekt, interaksjonsdesign
+SMF2211,Foretaksstrategi(Kun eksamen, undervises ikke)
+SMF2281F,Foretaksstrategi
+SMF2211F,Foretaksstrategi(Kun eksamen, undervises ikke)
+SMF2281,Foretaksstrategi
+REA0021,Forkurs i fysikk for TRES
+REA0012,Forkurs i matematikk for Tres og y-vei
+TEK1315,Form og tredimensjonal modellutvikling
+FENG1001,Fornybar energi grunnkurs
+SMF3093,Forretnings- og IKT-arkitektur
+SMF2294,Forretningsjus
+SMF2294F,Forretningsjus
+ERG3011,Forskning og utvikling i ergoterapi
+IDG1112,Fotografihistorie og bildekommunikasjon
+IMT6021,Foundations of Information Security
+IIKG1002,Front-end web utvikling
+IIKG1002,Front-end web utvikling
+IDG2100,Full stack webutvikling
+IFYG1001,Fysikk
+REA2101,Fysikk og kjemi
+IFYKJG1001,Fysikk/kjemi
+IFYKJG1000,Fysikk/kjemi
+VB6104,Fysikk/kjemi
+IDG1006,Fysisk prototyping
+GEO1121,GIS Intro(Kun eksamen, undervises ikke)
+TVB4105,Geodata for byggeprosesser
+GEO3101,Geografisk analyse
+GEOM2230,Geografisk analyse
+GEOM2220,Geografisk datafangst
+VB6113,Geografisk datafangst
+GEO1271F,Geografisk datafangst 1(Kun eksamen, undervises ikke)
+GEO2341,Geografisk datafangst 2
+GEO2311F,Geografisk informasjonsbehandling
+GEO2311,Geografisk informasjonsbehandling(Kun eksamen, undervises ikke)
+GEOM2240,Geografisk infrastruktur og informasjonsbehandling
+GEO3093,Geomatikk prosjektoppgave
+GEOM2790,Geomatikk prosjektoppgave
+VB8003,Geometric Computing for Manufacturing Engineering
+BYGG2001,Geoteknikk
+BYG1381,Geoteknikk(Kun eksamen, undervises ikke)
+BYGG2001F,Geoteknikk
+PROG2002,Grafikkprogrammering
+IMT2531,Grafikkprogrammering(Kun eksamen, undervises ikke)
+IDG1000,Grafiske verktøy, prinsipper og metoder
+VIU8281,Grunnlagsforståelse i veiledning(Kun eksamen, undervises ikke)
+GEOM2120,Grunnlagsnett
+BIM1001,Grunnleggende BIM modellering
+SYG3201,Grunnleggende anestesisykepleie, kliniske studier
+SYG3221,Grunnleggende intensivsykepleie, kliniske studier
+SYG3231,Grunnleggende operasjonssykepleie, kliniske studier
+PROG1001,Grunnleggende programmering
+IMT1031,Grunnleggende programmering(Kun eksamen, undervises ikke)
+IDG1200,Grunnleggende psykologi
+SYG1000,Grunnleggende sykepleie
+IDG1100,Grunnleggende web
+HMSG1001,HMS og praksiskurs Maskin
+ETG2201,Habilitering, rehabilitering og tilrettelegging ved aktivitetsutfordringer
+ERG1022,Helse og aktivitet(Kun eksamen, undervises ikke)
+SPL3013D,Helse og samfunn 2
+SPL3013,Helse og samfunn 2
+FH3105,Helsefremming i lokalsamfunn
+ETG2204,Helsefremming og tilhørighet i kommunen
+PARA1012,Helserett
+IMT2008,ITSM, risiko­håndtering og sikkerhets­ledelse(Kun eksamen, undervises ikke)
+TEK1313,Idéutvikling og visualisering
+IMT4305,Image Processing and Analysis
+IMT3004,Incident Response, Ethical Hacking and Forensics
+TØL4016,Industrial Communications and Sensor Technology
+TØL4013,Industry 4.0
+VB8001,Industry 4.0 Manufacturing Summer School
+IDG3009,Informasjonsarkitektur
+IMT3009,Informasjonsarkitektur
+IDG1051,Informasjonsgrafikk
+IDG2004,Informasjonsstrukturer og databaser
+IMT2261,Informasjonsstrukturer og databaser(Kun eksamen, undervises ikke)
+TVB4100,Informasjonsstrukturering for bygg-, anleggs- og eiendomsbransje
+TPD4167,Informasjonsvisualisering
+IMT3005,Infrastructure as Code
+DCSG1001,Infrastruktur: grunnleggende ferdigheter
+DCSG1005,Infrastruktur: sikre grunntjenester
+GEO3141,Infrastrukturer for stedfestet informasjon
+INGG1001,Ingeniørfaglig innføringsemne
+INGG2300,Ingeniørfaglig systememne
+TØL1011,Ingeniørfaglig systememne
+FH3000,Innføring i folkehelse
+RAG2303,Innføring i forskningsmetode
+MH3000,Innføring i forskningsmetode
+VIU8451,Innføring i oppmerksomt nærvær som profesjonell praksis
+TEK1000,Innføring i teknologi
+SMF2010,Innkjøp og forsyningsledelse
+TLOG2006,Innkjøps- og forsyningsledelse
+TBA4400,Innovasjon for en digitalisert bygg- og anleggsnæring
+IMT3006,Innovasjon og entreprenørskap i kreativ virksomhet
+PROG2052,Integrasjonsprosjekt
+IMT4807,Integration Project
+RAD2031,Intervensjon og ultralyd
+IMT4113,Introduction to Cyber and Information Security Technology
+IMT4217,Introduction to Data Privacy
+IMT4114,Introduction to Digital Forensics
+IMT6011,Introduction to Information Security
+IMT4115,Introduction to Information Security Management
+TØL4020,Introduction to Modelling and Simulation for Sustainable Manufacturing
+IMT4306,Introduction to Reseach in Mobile/Wearable Technology
+IMT4307,Introduction to Research in Serious Games and Gamification
+IMT4135,Introduction to Research on Colour and Visual Computing
+IMT4308,Introduction to Research on Web Technologies
+IDG1362,Introduction to user-centered design
+VB6116,Introduksjon til AR, VR og XR for bygg- og anlegg
+VB6115,Introduksjon til Maskinlæring og Semantisk Web for bygg anlegg
+ERG1001,Introduksjon til ergoterapi(Kun eksamen, undervises ikke)
+MH3005,Introduksjon til forskning
+GEOM1110,Introduksjon til ingeniørfag geomatikk
+VB6111,Introduksjon til ingeniørfag geomatikk
+VB6000,Introduksjon til landmåling og landmålingsinstrumenter
+SMF1200,Introduksjon til logistikkledelse
+MASG1002,Introduksjon til maskin
+VIU8441,Introduksjon til oppmerksomt nærvær
+VIU8402,Introduksjon til palliativ omsorg
+RAD1041,Introduksjon til radiografi(Kun eksamen, undervises ikke)
+ERG1031,Introduksjon til universell utforming og velferdsteknologi(Kun eksamen, undervises ikke)
+IMT6031,Intrusion Detection and Prevention
+IMT4204,Intrusion Detection in Physical and Virtual Networks
+SMF2296F,Investering og finansiering
+SMF2296,Investering og finansiering
+GEOM2730,Juss og matrikkellære
+IMT2013,Kalligrafi(Kun eksamen, undervises ikke)
+IDG2013,Kalligrafi og Skriftdesign
+FENG2011,Kjemisk energiteknikk
+TEK1314,Klima og miljø
+SPL1012D,Klinisk sykepleie 1(Kun eksamen, undervises ikke)
+SPL1012,Klinisk sykepleie 1(Kun eksamen, undervises ikke)
+SPL2012D,Klinisk sykepleie 2
+SPL2012,Klinisk sykepleie 2
+SYG2100,Kliniske vurderinger i sykepleie ved sykdom og behandling
+SYG2102,Kliniske vurderinger i sykepleie ved sykdom og behandling - helsefremming og rehabilitering
+SYG2103,Kliniske vurderinger i sykepleie ved sykdom og behandling - helsefremming og rehabilitering - praksisstudier
+SYG2101,Kliniske vurderinger i sykepleie ved sykdom og behandling - praksisstudier
+TØL4017,Knowledge Management for Sustainability(Kun eksamen, undervises ikke)
+IDG2009,Kommunikasjon
+PARA1011,Kommunikasjon og etikk
+SMF0002,Kommunikasjon og norsk for Y-vei
+SYG3203,Kompetent utøver av anestesisykepleie, kliniske studier
+SYG3223,Kompetent utøver av intensivsykepleie, kliniske studier
+SYG3233,Kompetent utøver av operasjonssykepleie, kliniske studier
+SYG2302,Komplekse vurderinger og beslutninger i sykepleie - praksisstudier
+BYGG2253,Konstruksjonsanalyse
+BYGG2251,Konstruksjonslære
+VB6108,Konstruksjonslære
+BYG2301,Konstruksjonsteknikk
+IELEG2121,Kraftelektronikk
+VIU8432,Kunnskapsutvikling og fordypning
+PROG2051,Kunstig intelligens
+IMT3104,Kunstig intelligens
+MH3004,Kvalitative metoder i medisin og helsefag
+MH3008,Kvalitative metoder i medisin og helsefag
+SYG3253,Kvalitetsforbedring og pasientsikkerhet
+SMF3085F,Kvalitetsledelse
+SMF3085,Kvalitetsledelse
+SMF2292F,Kvantitative og kvalitative metoder
+SMF2292,Kvantitative og kvalitative metoder
+GEOM2110,Landmåling
+GEO1201,Landmåling 2(Kun eksamen, undervises ikke)
+GEO2282,Landmåling 3(Kun eksamen, undervises ikke)
+GEO2151,Landmålingsanalyse(Kun eksamen, undervises ikke)
+VB6001,Landmålingsarbeider for bygg og anlegg
+GEOM2210,Laserskanning
+TLOG3007,Ledelse av integrerte verdikjeder
+TLOG3010,Ledelse av integrerte verdikjeder
+SMF2051,Ledelse med arbeidslivsjus(Kun eksamen, undervises ikke)
+SMF2051F,Ledelse med arbeidslivsjus(Kun eksamen, undervises ikke)
+FENG2023,Livsløpsvurderinger av energisystem
+VB8007,Livssyklusvurdering av polymerer og kompositter
+VIU8501,MBSR-MBCT Teacher Training(Kun eksamen, undervises ikke)
+VB8002,Machine Learning for Manufacturing Engineering
+RAD2061,Magnetisk Resonans (MR)
+RAG2202,Magnetisk resonans (MR)
+SMF2295F,Makroøkonomi
+SMF2295,Makroøkonomi
+SMF3021F,Makroøkonomi(Kun eksamen, undervises ikke)
+IMT3015,Mappe og avgangsutstilling
+IDG3800,Mappe og utstilling
+SMF1196,Markedsføring - grunnkurs
+SMF1196F,Markedsføring - grunnkurs
+MASG2103,Maskindeler
+MACS490,Master's Thesis - Applied Computer Science
+MIS4900,Master's Thesis - Information Security
+IMT4903,Master's Thesis COSI/CIMET
+MIXD490,Master's Thesis- Interaction Design
+TØL4902,Master's Thesis-Sustainable Manufacturing
+MHL4901,Masteroppgave i helsefremmende lokalsamfunnsarbeid(Kun eksamen, undervises ikke)
+SPL4911,Masteroppgave i klinisk sykepleie
+SYG3900,Masteroppgave i klinisk sykepleie
+REA3011,Matematikk 3
+BMA1010,Matematikk for Informatikk
+BMA1020,Matematikk for Programmering
+REA1101,Matematikk for informatikkfag
+REA1153,Matematikk for økonomer
+VB6100,Matematiske metoder 1
+IMAG1001,Matematiske metoder 1
+IMAG2021,Matematiske metoder 2 for Dataingeniør
+IMAG2011,Matematiske metoder 2 for Elektro og Fornybar energi
+IMAG2031,Matematiske metoder 2A
+VB6105,Matematiske metoder 2A
+IMAG2100,Matematiske metoder 3
+IMAG2150,Matematiske metoder 3 for dataingeniører
+TEK1312,Materiallære
+TEK2113,Materiallære II - Plast og kompositt
+TEK2012,Materiallære II Plast og kompositt
+BYG2311,Materiallære for bygg
+VB6102,Materiallære for bygg
+TEK2011,Materiallære for ingeniører
+MASG2100,Materialteknologi
+MASG2105,Materialteknologi II
+SYG3202,Medansvar for utøvelsen av anestesisykepleie, kliniske studier
+SYG3222,Medansvar for utøvelsen av intensivsykepleie, kliniske studier
+SYG3232,Medansvar for utøvelsen av operasjonssykepleie, kliniske studier
+IDG1008,Medie- og Designrett
+IMT1008,Medie- og designrett
+IMT1005,Medievitenskap, akademisk skriving og metoder(Kun eksamen, undervises ikke)
+SPL1004MED,Medikamentregning(Kun eksamen, undervises ikke)
+SPL1004MEDD,Medikamentregning(Kun eksamen, undervises ikke)
+SYG3101,Medisinsk perspektiv i avansert klinisk sykepleie
+SYG3000,Medisinske og naturvitenskapelige emner
+SYG3001,Medisinske og naturvitenskapelige emner - operasjon
+FENG1012,Mekanikk
+MEKG1001F,Mekanikk
+MEKG1001,Mekanikk
+VB6103,Mekanikk
+BYG2251,Mekanikk(Kun eksamen, undervises ikke)
+BYGG2250,Mekanikk 2
+SPL1092D,Menneske, helse og samfunn 1(Kun eksamen, undervises ikke)
+SPL1092,Menneske, helse og samfunn 1(Kun eksamen, undervises ikke)
+SMF1195F,Merkevarebygging
+SMF1195,Merkevarebygging
+ETG2203,Mestring av hverdagsliv med psykiske utfordringer
+IELEG2111,Mikrokontrollersystemer
+SMF2291F,Mikroøkonomi
+SMF2291,Mikroøkonomi
+ENE1061,Miljø og samfunn(Kun eksamen, undervises ikke)
+TEP4295,Miljøanalyse og industriell økologi
+PROG2007,Mobile Programming
+IMT6221,Mobile Technology
+IMT2009,Mobile medier og sosial interaksjon(Kun eksamen, undervises ikke)
+IMT3673,Mobile/Wearable Programming(Kun eksamen, undervises ikke)
+GEOM1310,Modellering og bruk av nasjonale geodata
+VB6112,Modellering og bruk av nasjonale geodata
+IMT6081,Modern Cryptology
+VIU8422,Møte med alvorlig syke,døende og deres familier: etikk, kommunikasjon og relasjoner
+FH3102,Natur og kultur i helsefremming 1
+FH3106,Natur og kultur i helsefremming 2
+IMT2007,Nettverkssikkerhet(Kun eksamen, undervises ikke)
+IMT4125,Network Security
+MGE4012,Normag: The Psychology of Ageing
+NFUT0030,Norsk for utlendinger, nettbasert kortkurs - Campus Ålesund og Campus Gjøvik
+NFUT0130,Norsk for utlendinger, nettbasert kurs, trinn 1 - Campus Ålesund og Campus Gjøvik
+NFUT0230,Norsk for utlendinger, nettbasert kurs, trinn 2 - Campus Ålesund og Campus Gjøvik
+MASG2110,Nullfeils produksjon
+PROG1003,Objektorientert programmering
+ETG1104,Omgivelser, tilgjengelighet og teknologi
+IDG2000,Områdeemne, Velferdsteknologi på tvers av fag
+RAD3011,Onkologi og tilhørende modaliteter
+RAG2205,Onkologi: utredning og behandling
+IMT2282,Operativsystemer(Kun eksamen, undervises ikke)
+IDATG2202,Operativsystemer
+PARA1008,Operativt ambulansearbeid
+K1211,Operativt lederskap - Utvikling og kompetansestyring
+SMF1193,Organisasjon og ledelse
+SMF1193F,Organisasjon og ledelse
+SMF3012F,Organisasjonspsykologi og endringsledelse(Kun eksamen, undervises ikke)
+SMF3012,Organisasjonspsykologi og endringsledelse(Kun eksamen, undervises ikke)
+SMF3084F,Organisasjonspsykologi og ledelse
+SMF3084F,Organisasjonspsykologi og ledelse
+SYG3106,Pasientsikkerhet
+RAG2305,Pasientsikkerhet, innovasjon, digitalisering og e-helse
+RAG1005,Patologi, farmakologi og kliniske ferdigheter
+ETG1101,Person, aktivitet og deltakelse i hverdagsliv
+BYGG2266,Planlegging, bygging og drift av veg
+TØL4205,Polymer materials and processes
+EPR1001,Praksis 1 Aktivitet og mestring(Kun eksamen, undervises ikke)
+EPR2021,Praksis 2 Ergoterapi for helsefremming, folkehelse og ved sykdom og funksjonsnedsettelse
+EPR3021,Praksis 3 Praksis med fordypningsemne innen innovasjon, universell utforming og velferdsteknologi
+IMT3841,Praksis ved CERN innen IT
+PRU1002D,Praksisrettet undervisning i studieenhet 1(Kun eksamen, undervises ikke)
+PRU1002,Praksisrettet undervisning i studieenhet 1(Kun eksamen, undervises ikke)
+PRU2002D,Praksisrettet undervisning i studieenhet 2
+PRU2002,Praksisrettet undervisning i studieenhet 2
+RAG1004,Praksisstudier 1: Skjelettrøntgen
+RAG2204,Praksisstudier 2
+RAG2301,Praksisstudier 3
+HELG6010,Praksisveiledning av studenter/profesjonsutøvere i helse- og sosialtjenesten
+BIM1023,Praktisk BIM-modellering
+RPR1011,Praktisk ferdighetsprøve i skjelett/thoraxradiografi og sykepleie, digital test i medikamentregning(Kun eksamen, undervises ikke)
+MDV6022,Prehospitalt psykisk helsearbeid 1
+MDV6023,Prehospitalt psykisk helsearbeid 2
+TØL4007,Product Development
+TEK2116,Produksjonsmetoder
+MASG2104,Produksjonsmetoder
+TEK2111,Produksjonsmetoder(Kun eksamen, undervises ikke)
+TEK2117,Produktdesign - Forholdet mellom menneske, form og funksjon
+MASG2109,Produktutvikling for læringsfabrikk
+TEK2119,Produktutvikling for læringsfabrikk
+SYG3102,Profesjonskvalifisering i klinisk sykepleie
+ETG1110,Profesjonsutøvelse i ergoterapi (praksisstudier)
+IMT3602,Professional Programming
+IELEG2113,Programmerbare kretser
+ELE3342,Programmerbare kretser
+IDATG1001,Programmering 1
+IDATG2001,Programmering 2
+IMT1441,Programmering for web I(Kun eksamen, undervises ikke)
+IMT3851,Programmering for web II(Kun eksamen, undervises ikke)
+IMT3110,Programvaredesign
+IMT3501,Programvaresikkerhet
+PROG1004,Programvareutvikling
+IMT3401,Project Work for Exchange Bachelor Students
+IMT3402,Project Work for Exchange Bachelor Students
+IDIG3001,Project Work for Exchange Bachelor Students
+IMT3402,Project Work for Exchange Bachelor Students
+IDIG4001,Project Work for Exchange Master Students
+IMT4461,Project Work for Exchange Master Students
+IMT4471,Project Work for Exchange Master Students
+TØL4082,Project Work for Exchange Students
+TØL4083,Project Work for Exchange Students
+TØL4015,Project work
+TØL4081,Project work(Kun eksamen, undervises ikke)
+ERG3001,Prosjektarbeid i ergoterapi
+ETG2301,Prosjektarbeid og -ledelse
+VB6114,Prosjektgjennomføringsmodell etter ISO19650
+SMF1212,Prosjektledelse
+SMF1212F,Prosjektledelse
+SMF2297F,Prosjektledelse
+SMF2297,Prosjektledelse
+TBA4415,Prosjektledelse og gjennomføringsmodeller for digitaliserte BAE-prosjekt
+SYG3100,Prosjektplan
+IDG1007,Prosjektstyring
+IMT1007,Prosjektstyring i interaksjonsdesign
+IMT3007,Prosjektutvikling i kreativ virksomhet(Kun eksamen, undervises ikke)
+FH3101,Psykologisk aldring - vekst, nedgang og mestring
+ERG2001,Psykososiale og somatiske funksjonsnedsettelser - del 1
+ERG2011,Psykososiale og somatiske funksjonsnedsettelser - del 2 - Fokus på folkehelse og livsstilsykdom
+IMT6251,Quality in Academic Research
+IMT4312,Quantitative Methods and Use of Eyetrackers
+RAD2051,Radiograffaglige emneområder
+RAG1002,Radiografi 1: Strålefysikk, apparatlære og bildedannelse
+RAG1003,Radiografi 2: Skjelett- og thoraxradiografi
+IMT2581,Rask prototyping og innovasjon
+IMT6171,Real-time AI for robotics and simulated environments
+IDG2014,Redaksjonell design 1
+IDG3013,Redaksjonell design 2
+IMT2012,Redaksjonell design I(Kun eksamen, undervises ikke)
+IMT3013,Redaksjonell design II
+IELEG2002,Reguleringsteknikk
+ELE3381,Reguleringsteknikk med robotprogrammering
+SYG3104,Rehabilitering, mestring og medvirkning
+TØL4018,Renewable Energy Technology
+IMT4205,Research Project Planning
+IMT4885,Research Project Planning, Interaction Design
+IMT4216,Resilient Organizations with Incident Response Readiness
+IMT3950003,Responsiv web
+IMT4116,Reverse Engineering and Malware Analysis
+DCSG2005,Risikostyring
+SMF3095,Risikostyring
+IMT4129,Risk Management for Information Security
+DCSG2003,Robuste og skalerbare tjenester
+SMF2300,Ruteplanlegging og optimalisering
+VB8006,Sammenføyning av ulike materialer
+DCSG2001,Sammenkoblede nettverk og nettverkssikkerhet
+GEOM2710,Satellittgeodesi
+GEO3071,Satellittgeodesi, videregeående
+IMT6261,Scientific Communication
+TØL4006,Scientific Methodology(Kun eksamen, undervises ikke)
+IMT4110,Scientific Methodology and Communication
+IMT4127,Security Management Metrics
+IMT6041,Selected Topics in Cryptology
+IMT6151,Selected topics in Image Processing
+IMT6161,Selected topics in Video Processing
+VIU8301,Selvrefleksivitet som grunnlag for relasjonskompetanse i veiledning(Kun eksamen, undervises ikke)
+SYG3103,Selvvalgt fordypningsemne i klinisk sykepleie
+IMT6231,Serious Games and Gamification
+IELEG2110,Signalbehandling
+ELE3412,Signalbehandling for kommunikasjonssystemer(Kun eksamen, undervises ikke)
+IMT3012,Skriftdesign
+IMT4128,Socio-technical Systems Enabled Crime
+IIKG2001,Software Security
+FENG2021,Solenergi
+FH3104,Sosial aldring og aktiv aldring
+IMT4895,Specialisation in Colour Imaging
+IMT4888,Specialisation in Game Technology
+IMT4898,Specialisation in Interaction Design
+IMT4889,Specialisation in Mobile/Wearable Technology
+IMT4890,Specialisation in Video Processing
+IMT4887,Specialisation in Web Technology
+IMT4134,Specialisation in software engineering
+IMT4881,Specialization Course 1
+IMT4882,Specialization Course II
+IMT4215,Specialization Project
+IMT3603,Spillprogrammering
+IMT3601,Spillprogrammering
+ISTG1003,Statistikk
+ISTG1001,Statistikk
+ISTG1002,Statistikk
+VB6200,Statistikk
+REA1081,Statistikk
+MH3006,Statistikk for medisin og helsefag
+MH3003,Statistikk for medisin og helsefag
+REA1154,Statistikk for økonomer
+SMF2251F,Statistikk og økonomi(Kun eksamen, undervises ikke)
+SMF2251,Statistikk og økonomi(Kun eksamen, undervises ikke)
+GEOM2920,Stikking
+GEO3061,Stikking, videregående
+IDG2015,Strategisk design
+IMT3950004,Strategisk design(Kun eksamen, undervises ikke)
+TEK3107,Studentbedrift teknologidesign og ledelse
+K1137,Studentveiledning i kommunehelsetjenesten
+TEK2021,Styrkeberegning
+BYGG2256,Stålkonstruksjoner
+TØL4010,Sustainability Assessment
+TØL4014,Sustainable Manufacturing Systems
+TØL4012,Sustainable Manufacturing Technology
+SPL2041,Sykdomslære - psykiatri
+SPL2041D,Sykdomslære - psykiatri
+SPL2031,Sykdomslære - somatikk
+SPL2031D,Sykdomslære - somatikk
+RAG2203,Sykdomslære og bildediagnostiske modaliteter
+VIU8412,Sykdomsutvikling og symptomlindring innen palliativ omsorg
+SYG1002,Sykepleierens observasjon og vurdering av pasientens helse og sykdom
+SYG1003,Sykepleierens observasjon og vurdering av pasientens helse og sykdom - praksisstudier
+IMT4123,System Security
+IDATG1002,Systemutvikling
+IDG4112,Tangible Interaction Design for Health Promotion
+IDG3750,Tangible and Sensorial Interaction Design
+MH2000,Teknologiforståelse
+SMF2298F,Teknologiledelse
+SMF2298,Teknologiledelse
+TEK2031F,Teknologiledelse
+TEK2031,Teknologiledelse
+FENG1011,Termodynamikk
+ENE2031,Termodynamikk og varmelære
+MASG1001,Termodynamikk/Maskin og prosess
+GEO2121,Terrengmodeller(Kun eksamen, undervises ikke)
+GEOM2130,Terrengmodeller
+IDG2012,Tilgjengelighet, brukervennlighet og etikk
+IMT3002,Tjenestedesign(Kun eksamen, undervises ikke)
+IDG3002,Tjenestedesign
+SMF2012,Transportplanlegging og - økonomi(Kun eksamen, undervises ikke)
+SMF3090,Transportøkonomi
+PARA1007,Traumatologi
+BYG3311,Tre-og stålkonstruksjoner
+BYGG2255,Trekonstruksjoner 1
+BYGG2350,Trekonstruksjoner 2
+IELEG2214,Trådløse sensorer
+IDG1101,Typografi 1
+IDG1010,Typografi 2
+IMT1101,Typografi I
+IDG2312,Typografihistorie
+IMT2312,Typografihistorie(Kun eksamen, undervises ikke)
+BYG2271,Universell utforming
+BYGG2362,Universell utforming
+K1213,Universell utforming
+TEK2112,Universell utforming I
+VB6106,Universell utforming for svaksynte
+VB6107,Universell utforming i servicenæringen
+TEK3022,Universell utforming og brukersentrert design(Kun eksamen, undervises ikke)
+TEK2120,Universell utforming og designmetodikk
+ERG3021,Universell utforming og velferdteknologi som helsefremmende strategier
+IMT4309,Usability and Human Factors in Interaction Design
+IDG4113,User Centered Design
+IMT4316,User-centred Information Architecture
+TEK3108,Utviklingsprosjekt, Læring i FoU prosjekt (LIFU)
+TEK2071,Utviklingsprosjekt, Læring i bedrifts-prosjekt (LIB)
+BYGG2361,VA-kjemi for ingeniører
+BYG1351,VA-teknikk for ingeniører(Kun eksamen, undervises ikke)
+MAL4104,Valgfri metode, kvalitativ(Kun eksamen, undervises ikke)
+MAL4103,Valgfri metode, kvantitativ(Kun eksamen, undervises ikke)
+BYGG2263,Vann- og avløpsteknikk
+FENG2010,Varme og massetransport
+BYG2331,Vegplanlegging
+IDG3950,Veifinningssystemer
+IMT3950008,Veifinningssystemer
+VPS1002D,Veiledet praksis i grunnleggende sykepleie i kommunal heldøgns omsorg
+VPS1002,Veiledet praksis i grunnleggende sykepleie i kommunal heldøgns omsorg(Kun eksamen, undervises ikke)
+VPK2002,Veiledet praksis i kirurgisk sykepleie
+VPK3002D,Veiledet praksis i kirurgisk sykepleie
+VPK3002,Veiledet praksis i kirurgisk sykepleie
+VPK2002,Veiledet praksis i kirurgisk sykepleie
+VPK2002D,Veiledet praksis i kirurgisk sykepleie
+VPK2012D,Veiledet praksis i kirurgisk sykepleie
+RPR2032,Veiledet praksis i klinisk sykepleie
+VPH3012D,Veiledet praksis i kommunal sykepleietjeneste
+VPH3012,Veiledet praksis i kommunal sykepleietjeneste
+IMT3541,Veiledet praksis i medie-og informatikkfag
+VPM2012D,Veiledet praksis i medisinsk sykepleie
+VPM2002D,Veiledet praksis i medisinsk sykepleie
+VPM2002,Veiledet praksis i medisinsk sykepleie
+VPM2012,Veiledet praksis i medisinsk sykepleie
+VPM3002D,Veiledet praksis i medisinsk sykepleie
+VPM3002,Veiledet praksis i medisinsk sykepleie
+VPP3002D,Veiledet praksis i psykiatrisk sykepleie
+VPP3002,Veiledet praksis i psykiatrisk sykepleie
+VPP2002D,Veiledet praksis i psykiatrisk sykepleie
+VPP2012,Veiledet praksis i psykiatrisk sykepleie
+VPP2002,Veiledet praksis i psykiatrisk sykepleie
+VPP2012D,Veiledet praksis i psykiatrisk sykepleie
+RPR2041,Veiledet praksis ved radiologiske modaliteter
+RPR2051,Veiledet praksis ved radiologiske modaliteter,praksis 3
+RPR3031,Veiledet praksis ved radiologiske modaliteter,praksis 4
+RPR3041,Veiledet praksis ved radiologiske modaliteter,praksis 5
+RPR3051,Veiledet praksis ved radiologiske modaliteter,praksis 6
+VIU8311,Veiledning i ulike kontekster(Kun eksamen, undervises ikke)
+SMF3081F,Videregående metodekurs - kvantitative metoder
+SMF3081,Videregående metodekurs - kvantitative metoder(Kun eksamen, undervises ikke)
+IMT3881,Vitenskapelig programmering(Kun eksamen, undervises ikke)
+MH3001,Vitenskapsfilosofi, forskningsetikk og kritisk kunnskapsinnhenting
+RAD2041,Vitenskapsteori og forskningsmetode
+MKS4100,Vitenskapsteori, forskningsmetode og forskningsetikk del 2(Kun eksamen, undervises ikke)
+IMT2291,WWW-teknologi(Kun eksamen, undervises ikke)
+PROG2053,WWW-teknologier
+IDG1292,Web Coding
+IDG3006,Web of Things
+IDG2671,Webprosjekt
+IMT2671,Webprosjekt II(Kun eksamen, undervises ikke)
+IMT3891,Webprosjekt III
+IMT6051,Wireless Communication Security
+TØL4009,Zero Defect Manufacturing
+SMF1042,Økonomistyring(Kun eksamen, undervises ikke)
